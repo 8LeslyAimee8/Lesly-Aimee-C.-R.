@@ -1,7 +1,7 @@
 # Lesly-Aimee-C.-R.
 <p align="right"> 
   <div align="left">
-    "Gracias por visitarme!"
+    <span style="font-size: 15.5em;">Thanks for visitng me!</span>
     
   <img width ="345" height="345" src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjVzemw2cDh0Y2U4Y3Zxc3YxbmczMHVxaTdjcmZlZmJ2dDk0bnp0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3HAYjflm75oOs23Eh8s/giphy.gif"> 
   </p>
