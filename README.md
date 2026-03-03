@@ -1,5 +1,5 @@
 # Lesly-Aimee-C.-R.
-![Alt Text] (https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnhrenhsdnhobnJvMWR6dmdheW9xdXU4OXI0cTF2dnA4ZWZnOHo1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YqE4uqYNO7QAOY6yj8/giphy.gif)
+<img width ="957" height="345" src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnhrenhsdnhobnJvMWR6dmdheW9xdXU4OXI0cTF2dnA4ZWZnOHo1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YqE4uqYNO7QAOY6yj8/giphy.gif"> 
 
 <div align="center">
 🍓**Gracias por visitarme, me llamo Lesly**🍓
