@@ -5,10 +5,10 @@
   <img width ="345" height="345" src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjVzemw2cDh0Y2U4Y3Zxc3YxbmczMHVxaTdjcmZlZmJ2dDk0bnp0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3HAYjflm75oOs23Eh8s/giphy.gif"> 
   </p>
 
-## I find a bug
+## I find a bug, and you found me!
 
 <div align="center">
-🍓**Gracias por visitarme, me llamo Lesly**🍓
+🍓*Gracias por visitarme, me llamo Lesly*🍓
 
 Linkedin: https://www.linkedin.com/in/lesly-aimee-coca-reyes
 FB: https://www.facebook.com/profile.php?id=100010246867910
