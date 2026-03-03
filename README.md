@@ -37,16 +37,12 @@ A stubborn, passionate and always searching for what's new, I find what you don'
 My knolege go all the way down to the client and back to your bussnes. With 2 years in quality assurance, I find the little bugs and technical problems before your targets does; and of course with my past in costumer service, I know for sure, what the people need. 
 
 
-| **Technical skills**|        |
-|  ------------------ | -------|
+| **Technical skills**|   ⭐  |
+|  --- | --- |
 | ⭐POSTMAN           | ⭐JIRA|
-| ------------------- | -------|
 | ⭐SQL              | ⭐HTTP |
-| ------------------- | ------ |
 | ⭐ANDROID STUDIO   | ⭐CONSOLE |  
-| ------------------- | ------- |
 | ⭐JSON             | ⭐FIGMA |
-|------------------- |--------- |
 |⭐ PYCHARM         |          |
 
 
