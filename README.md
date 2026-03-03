@@ -8,7 +8,7 @@
 ## I find a bug, and you found me!
 
 <div align="center">
-🍓 __**Thank for your visit!, my name is Lesly**__🍓
+🍓**Thanks for your visit**🍓
 
 Linkedin: https://www.linkedin.com/in/lesly-aimee-coca-reyes
 FB: https://www.facebook.com/profile.php?id=100010246867910
