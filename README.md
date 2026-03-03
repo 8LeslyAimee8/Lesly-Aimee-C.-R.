@@ -2,7 +2,7 @@
 <p align="right"> 
   <div align="center">
     <h1>Thanks for visitng me!</h1>
-  <img width ="345" height="345" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> 
+  <img width ="345" height="345" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhoZWYwMTVzbXE3eXdqOTlneWtqNWszNWI4Y2kxOW4xaHh5Njh4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hfBvI2Pq6zCYo/giphy.gif"> 
   </p>
 
 ## I find a bug, and you found me!
@@ -10,13 +10,17 @@
 
 🍓 **Hello there! my name is Lesly** 🍓
 
-<p align="left">
+<p align="center">
   <a href="www.linkedin.com/in/lesly-aimee-coca-reyes-8bb073238">
   <img height="50" src="https://github.com/user-attachments/assets/9e67d415-f3f9-4dcf-af25-83d059afa23c"
 />
 </a>
+<a href="https://www.facebook.com/profile.php?id=100010246867910">
+<img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"
+/>
+</a>
 
-FB: https://www.facebook.com/profile.php?id=100010246867910
+FB: 
 
 <div align="center">
 🪽Un poco de mí🪽
