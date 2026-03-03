@@ -1,4 +1,5 @@
 # Lesly-Aimee-C.-R.
+<img scr "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnhrenhsdnhobnJvMWR6dmdheW9xdXU4OXI0cTF2dnA4ZWZnOHo1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YqE4uqYNO7QAOY6yj8/giphy.gif"
 <div align="center">
 🍓**Gracias por visitarme, me llamo Lesly**🍓
 <img width="957" height="345" alt="Banner12" src="https://github.com/user-attachments/assets/f75ec4f7-5a60-4ca1-815b-2db35545e65d" />
