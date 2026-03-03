@@ -23,18 +23,32 @@
 FB: 
 
 <div align="center">
-🪽Un poco de mí🪽
+🪽About me🪽
 
-🖥️ QA Engineer Junior
+:wrench: Quality management
+🖥️ QA Engineer
 ✍️Manual Testing
 🔠SQL
-🖥️Consola
+🖥️Console
 📲APIs
 
-Estudiante de QA Engineer apasionada por mantener la calidad de los productos a partir de la elaboración de casos de prueba, listas de comprobación, reportes de errores y manejo de pruebas manuales. Me gusta poner atención a los detalles y ayudar a mejorar la calidad de los productos finales. Puedo manejar excel y google sheets, así como el uso de herramientas de testing como Android Studio, Postman, JIRA y lenguaje SQL para su uso en consola. 
+A stubborn, passionate and always searching for what's new, I find what you don't see, and I see what you want.
 
-**Habilidades Técnicas**
-⭐POSTMAN ⭐SQL ⭐ANDROID STUDIO ⭐JIRA ⭐CONSOLA ⭐HTTP JSON ⭐FIGMA
+My knolege go all the way down to the client and back to your bussnes. With 2 years in quality assurance, I find the little bugs and technical problems before your targets does; and of course with my past in costumer service, I know for sure, what the people need. 
+
+
+| **Technical skills**|        |
+|  ------------------ | -------|
+| ⭐POSTMAN           | ⭐JIRA|
+| ------------------- | -------|
+| ⭐SQL              | ⭐HTTP |
+| ------------------- | ------ |
+| ⭐ANDROID STUDIO   | ⭐CONSOLE |  
+| ------------------- | ------- |
+| ⭐JSON             | ⭐FIGMA |
+|------------------- |--------- |
+|⭐ PYCHARM         |          |
+
 
 
 
