@@ -10,7 +10,8 @@
 
 🍓 **Hello there! my name is Lesly** 🍓
 
-<a href="https://www.linkedin.com/in/lesly-aimee-coca-reyes">
+<p align="left">
+  <a href="https://www.linkedin.com/in/lesly-aimee-coca-reyes">
   <img width="5" height="5" src="https://github.com/user-attachments/assets/9e67d415-f3f9-4dcf-af25-83d059afa23c"
 />
 </a>
